@@ -24,4 +24,10 @@ function prependKitten(name) {
   return [name, ...kittens]
 }
 
-function 
+function removeFirstKitten(name) {
+  
+}
+
+function removeLastKitten(name) {
+  
+}
